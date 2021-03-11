@@ -1,0 +1,16 @@
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\bin\Debug\net5.0\AddNumbers.exe
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\bin\Debug\net5.0\AddNumbers.deps.json
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\bin\Debug\net5.0\AddNumbers.runtimeconfig.json
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\bin\Debug\net5.0\AddNumbers.runtimeconfig.dev.json
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\bin\Debug\net5.0\AddNumbers.dll
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\bin\Debug\net5.0\ref\AddNumbers.dll
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\bin\Debug\net5.0\AddNumbers.pdb
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\obj\Debug\net5.0\AddNumbers.csprojAssemblyReference.cache
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\obj\Debug\net5.0\AddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\obj\Debug\net5.0\AddNumbers.AssemblyInfoInputs.cache
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\obj\Debug\net5.0\AddNumbers.AssemblyInfo.cs
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\obj\Debug\net5.0\AddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\obj\Debug\net5.0\AddNumbers.dll
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\obj\Debug\net5.0\ref\AddNumbers.dll
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\obj\Debug\net5.0\AddNumbers.pdb
+C:\Users\lucy\Desktop\ClanAckerman_POO0121\AddNumbers\obj\Debug\net5.0\AddNumbers.genruntimeconfig.cache
