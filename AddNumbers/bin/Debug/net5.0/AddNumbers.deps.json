@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "ACTIVIDAD OPTATIVA GITHUB/1.0.0": {
+      "AddNumbers/1.0.0": {
         "runtime": {
-          "ACTIVIDAD OPTATIVA GITHUB.dll": {}
+          "AddNumbers.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ACTIVIDAD OPTATIVA GITHUB/1.0.0": {
+    "AddNumbers/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

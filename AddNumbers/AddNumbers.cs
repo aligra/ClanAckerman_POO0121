@@ -12,12 +12,12 @@ namespace Opt
             a = Int32.Parse(Console.ReadLine());
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine ($"Suma: {AddNumbers (a, b)}");
+            Console.WriteLine ($"Resta: {AddNumbers (a, b)}");
         }
 
         static int AddNumbers (int a, int b)
         {
-            return a+b;
+            return a-b;
         }
     }
 }

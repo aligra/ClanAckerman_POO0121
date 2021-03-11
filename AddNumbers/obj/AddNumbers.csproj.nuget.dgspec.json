@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ALICE\\CICLO 01-2021\\PROGRAMACION ORIENTADA A OBJETOS\\META1\\ACTIVIDADES OPTATIVAS\\ACTIVIDAD OPTATIVA GITHUB\\ACTIVIDAD OPTATIVA GITHUB.csproj": {}
+    "C:\\Users\\lucy\\Desktop\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj": {}
   },
   "projects": {
-    "C:\\ALICE\\CICLO 01-2021\\PROGRAMACION ORIENTADA A OBJETOS\\META1\\ACTIVIDADES OPTATIVAS\\ACTIVIDAD OPTATIVA GITHUB\\ACTIVIDAD OPTATIVA GITHUB.csproj": {
+    "C:\\Users\\lucy\\Desktop\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ALICE\\CICLO 01-2021\\PROGRAMACION ORIENTADA A OBJETOS\\META1\\ACTIVIDADES OPTATIVAS\\ACTIVIDAD OPTATIVA GITHUB\\ACTIVIDAD OPTATIVA GITHUB.csproj",
-        "projectName": "ACTIVIDAD OPTATIVA GITHUB",
-        "projectPath": "C:\\ALICE\\CICLO 01-2021\\PROGRAMACION ORIENTADA A OBJETOS\\META1\\ACTIVIDADES OPTATIVAS\\ACTIVIDAD OPTATIVA GITHUB\\ACTIVIDAD OPTATIVA GITHUB.csproj",
+        "projectUniqueName": "C:\\Users\\lucy\\Desktop\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj",
+        "projectName": "AddNumbers",
+        "projectPath": "C:\\Users\\lucy\\Desktop\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj",
         "packagesPath": "C:\\Users\\lucy\\.nuget\\packages\\",
-        "outputPath": "C:\\ALICE\\CICLO 01-2021\\PROGRAMACION ORIENTADA A OBJETOS\\META1\\ACTIVIDADES OPTATIVAS\\ACTIVIDAD OPTATIVA GITHUB\\obj\\",
+        "outputPath": "C:\\Users\\lucy\\Desktop\\ClanAckerman_POO0121\\AddNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucy\\AppData\\Roaming\\NuGet\\NuGet.Config",
