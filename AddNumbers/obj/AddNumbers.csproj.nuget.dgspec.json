@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucy\\Desktop\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj": {}
+    "D:\\Escritorio\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucy\\Desktop\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj": {
+    "D:\\Escritorio\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucy\\Desktop\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj",
+        "projectUniqueName": "D:\\Escritorio\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj",
         "projectName": "AddNumbers",
-        "projectPath": "C:\\Users\\lucy\\Desktop\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj",
-        "packagesPath": "C:\\Users\\lucy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucy\\Desktop\\ClanAckerman_POO0121\\AddNumbers\\obj\\",
+        "projectPath": "D:\\Escritorio\\ClanAckerman_POO0121\\AddNumbers\\AddNumbers.csproj",
+        "packagesPath": "C:\\Users\\javip\\.nuget\\packages\\",
+        "outputPath": "D:\\Escritorio\\ClanAckerman_POO0121\\AddNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\javip\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
